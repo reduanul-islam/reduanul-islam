@@ -73,10 +73,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg" alt="Adobe Illustrator" width="50" height="50"/>
+
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reduan-borno&show_icons=true&locale=en&layout=compact" alt="reduan-borno" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reduan-borno&show_icons=true&locale=en" alt="reduan-borno" /></p>
+
